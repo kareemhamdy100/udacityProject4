@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+[![kareemhamdy100](https://circleci.com/gh/kareemhamdy100/udacityProject4.svg?style=svg)](https://app.circleci.com/github/kareemhamdy100/udacityProject4/pipelines)
+
 
 ## Project Overview
 
